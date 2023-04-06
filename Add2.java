@@ -7,6 +7,7 @@ public class Add2 {
 			temp=temp+i;
 			temp1=temp1+temp;
 		}System.out.println(temp);
+		System.out.println("Fully Ok");
 	}
 
 }
